@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "wscat": "^2.2.1"
+  }
+}
